@@ -38,5 +38,13 @@
         "price": 4.3,
         "originalPrice": 4.4,
         "discount": 0
-    }
+    },
+    { 
+        "title": "Thermal Water Bottle",
+        "description": "Similar products cost like 30 dollars at my local stores, this has served me well.",
+        "link": "https://s.click.aliexpress.com/e/_opYYY7o",
+        "price": 12.4,
+        "originalPrice": 25.4,
+        "discount": 51
+    },
 ]
