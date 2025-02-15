@@ -54,5 +54,69 @@
         "price": 6.7,
         "originalPrice": 20,
         "discount": 66
+    },
+    {
+        "title": "Fast Charging Cable USB C",
+        "description": "Cheap but pretty reliable USB cable.",
+        "link": "https://s.click.aliexpress.com/e/_oEmNXxU",
+        "price": 2.2,
+        "originalPrice": 4.4,
+        "discount": 51
+    },
+    {
+        "title": "Digital Thermometer",
+        "description": "A.C.A.S shouldn't turn your PC into a space heater—haha! But hey, at least you get a cheap room temperature monitor.",
+        "link": "https://s.click.aliexpress.com/e/_oE8xbSi",
+        "price": 5.3,
+        "originalPrice": 5.31,
+        "discount": 0
+    },
+    {
+        "title": "Portable Table Fan",
+        "description": "It's surprisingly powerful and has an impressive battery life—perfect for those intense, sweat-inducing chess matches.",
+        "link": "https://s.click.aliexpress.com/e/_onOL6Gw",
+        "price": 8,
+        "originalPrice": 22.4,
+        "discount": 64
+    },
+    {
+        "title": "HiFi KZ Pro Earphones",
+        "description": "The KZ brand is amazing. If you end up getting the bluetooth AZ09 extension, it has the funny Chinese bluetooth lady voice lol.",
+        "link": "https://s.click.aliexpress.com/e/_oCHJ96w",
+        "price": 7.4,
+        "originalPrice": 7.41,
+        "discount": 0
+    },
+    {
+        "title": "Anime Figure Pvc",
+        "description": "For when your chess game needs a little extra... um, 'motivation.' It'll stare at you while you play chess (`・ω・´)",
+        "link": "https://s.click.aliexpress.com/e/_olBHdqE",
+        "price": 6.8,
+        "originalPrice": 13.7,
+        "discount": 50
+    },
+    {
+        "title": "Anime Figure PVC",
+        "description": "For when your chess game could use a little... um, 'encouragement.' It'll watch you struggle through your moves, offering zero advice（〃・・〃)",
+        "link": "https://s.click.aliexpress.com/e/_oospb6w",
+        "price": 9.5,
+        "originalPrice": 27,
+        "discount": 65
+    },
+    {
+        "title": "Anime Figure PVC",
+        "description": "For those moments when your chess game needs a bit of... um, 'inspiration.' It’ll silently judge your moves while you play (〃￣ω￣〃)",
+        "link": "https://s.click.aliexpress.com/e/_omZmLHu",
+        "price": 4.7,
+        "originalPrice": 13.5,
+        "discount": 65
+    },
+    {
+        "title": "Mechanical Keyboard Wired/2.4GHz/BT",
+        "description": "AJAZZ is a trusted brand, known for making some of the best mice on the market, offering precision, comfort, and reliability for both gaming and everyday use.",
+        "link": "https://s.click.aliexpress.com/e/_onknkvG",
+        "price": 43.5,
+        "originalPrice": 92.5,
+        "discount": 53
     }
 ]
