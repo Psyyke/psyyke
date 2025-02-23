@@ -118,5 +118,45 @@
         "price": 43.5,
         "originalPrice": 92.5,
         "discount": 53
+    },
+    {
+        "title": "ESP32 Development Board",
+        "description": "A small, affordable board for electronics projects. Great for Wi-Fi and Bluetooth-based DIY builds.",
+        "link": "https://s.click.aliexpress.com/e/_ok3vJMu",
+        "price": 2.7,
+        "originalPrice": 6.1,
+        "discount": 56
+    },
+    {
+        "title": "Ajazz AKP03E Programmable Keypad",
+        "description": "A compact keypad you can program for shortcuts or macros. Handy for work, gaming, or creative tasks.",
+        "link": "https://s.click.aliexpress.com/e/_oE70Jvw",
+        "price": 54.3,
+        "originalPrice": 0,
+        "discount": 0
+    },
+    {
+        "title": "Wooden Chess USB Flash Drive",
+        "description": "A USB flash drive shaped like a wooden chess piece.",
+        "link": "https://s.click.aliexpress.com/e/_ompxRqM",
+        "price": 5.3,
+        "originalPrice": 0,
+        "discount": 0
+    },
+    {
+        "title": "Retro Handheld Game Console",
+        "description": "A portable console that plays retro games. Runs on Linux and is perfect for nostalgia and gaming on the go.",
+        "link": "https://s.click.aliexpress.com/e/_oFQDecM",
+        "price": 40.2,
+        "originalPrice": 138.7,
+        "discount": 71
+    },
+    {
+        "title": "Wooden Bluetooth Chessboard",
+        "description": "A wooden chessboard with Bluetooth connectivity. Play against friends or connect to apps for solo play.",
+        "link": "https://s.click.aliexpress.com/e/_opVCimC",
+        "price": 227.1,
+        "originalPrice": 334,
+        "discount": 32
     }
 ]
